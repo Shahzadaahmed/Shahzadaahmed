@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahzada Muhammad Ahmed
-- 👀 I’m interested in JavaScript, React-JS and React Native
-- 🌱 I’m currently learning Node-JS
+- 👀 I’m Expert JavaScript, React-JS and React Native Developer
+- 🌱 I’m currently learning Node-JS and on the way to become a Fill Stack Developer (MERN)
 - 💞️ I’m looking to collaborate on every kind of work
 - 📫 How to reach me shahzada.ahmed1996@gmail.com
 
