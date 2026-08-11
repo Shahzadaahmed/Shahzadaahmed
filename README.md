@@ -83,18 +83,19 @@ I also have hands-on experience with **REST APIs, System Design, MVC Architectur
 
 ## 🤝 Let's Connect
 
-## 🤝 Let's Connect
-
 <p align="left">
   <a href="https://shahzadaahmed.vercel.app" target="_blank">
     🌐 WEBSITE
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Shahzadaahmed" target="_blank">
     🐙 GITHUB
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shahzada-muhammad-ahmed-rana-5b15231a9" target="_blank">
     💼 LINKEDIN
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/Codemaster08.07.95" target="_blank">
     📘 FACEBOOK
   </a>
