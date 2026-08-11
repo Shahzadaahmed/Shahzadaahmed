@@ -83,12 +83,20 @@ I also have hands-on experience with **REST APIs, System Design, MVC Architectur
 
 ## 🤝 Let's Connect
 
+## 🤝 Let's Connect
+
 <p align="left">
-  <a href="https://github.com/Shahzadaahmed">
-    <img src="https://img.shields.io/badge/GitHub-Shahzadaahmed-black?style=for-the-badge&logo=github" />
+  <a href="https://shahzadaahmed.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit%20Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shahzada-muhammad-ahmed-rana-5b15231a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahzada%20Muhammad%20Ahmed-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/Shahzadaahmed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Shahzadaahmed-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahzada-muhammad-ahmed-rana-5b15231a9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shahzada%20Muhammad%20Ahmed-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/Codemaster08.07.95" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Shahzada%20Muhammad%20Ahmed-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
