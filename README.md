@@ -87,16 +87,16 @@ I also have hands-on experience with **REST APIs, System Design, MVC Architectur
 
 <p align="left">
   <a href="https://shahzadaahmed.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit%20Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    🌐 WEBSITE
   </a>
   <a href="https://github.com/Shahzadaahmed" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Shahzadaahmed-black?style=for-the-badge&logo=github&logoColor=white" />
+    🐙 GITHUB
   </a>
   <a href="https://www.linkedin.com/in/shahzada-muhammad-ahmed-rana-5b15231a9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahzada%20Muhammad%20Ahmed-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    💼 LINKEDIN
   </a>
   <a href="https://www.facebook.com/Codemaster08.07.95" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Shahzada%20Muhammad%20Ahmed-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    📘 FACEBOOK
   </a>
 </p>
 
